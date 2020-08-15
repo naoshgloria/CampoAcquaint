@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "581596368308",
+    "firebase_url": "https://campoacquaint-66edb.firebaseio.com",
+    "project_id": "campoacquaint-66edb",
+    "storage_bucket": "campoacquaint-66edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581596368308:android:292023694957fc95",
+        "android_client_info": {
+          "package_name": "com.CampoAcquaint.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581596368308-lqjng6om8l6ibnjp4fuavrfvqnu7h0o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ-dd5db4B9rVHbqRcrkIFX7A2YxMu54k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
